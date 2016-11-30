@@ -1,2 +1,0 @@
-# Kitty-cat
-Kitty Cats
